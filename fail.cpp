@@ -31,4 +31,3 @@ int main(void) {
   memcheckFailDemo(arrayStack, 5, arrayHeap, 5);
   return 0;
 }
-
